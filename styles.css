@@ -1,0 +1,21 @@
+body{
+background:mediumaquamarine;
+margin: 0px
+}
+
+header{
+    border-bottom:solid 2px rgb(3, 46, 79, 0.94);
+    padding: 20px;
+    font-size: 40px;
+color: rgb(3, 46, 79, 0.94);
+}
+.video{
+    top: center;
+}
+
+.a{
+    top: center;
+    height: 400px;
+    width: 200px;
+}
+
